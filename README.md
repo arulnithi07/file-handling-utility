@@ -1,6 +1,27 @@
 # file-handling-utility
 
 
+
+Company name : CODTECH IT SOLUTIONS PVT. LTD
+
+
+INTERN ID           : CTO8DH682
+
+
+NAME                  : M.MUTHU ARUL NITHI 
+
+
+DOMAIN             : JAVA PROGRAMMING 
+
+START DATE      :  29 june
+
+END DATE           :  29 july 
+
+MENTOR              :  Neela santhos kumar
+
+
+
+
 🎯 **Objective:
 To develop a Java console application that performs basic file operations—write, append, and read—using FileWriter, BufferedReader, and Scanner classes. This project helps users understand file manipulation in Java.**
 
